@@ -1,0 +1,10 @@
+# Package versions when notebook was being developed
+# other package versions may produce different results
+pandas==2.1.0
+numpy==1.24.2
+seaborn==0.12.2
+matplotlib==3.7.0
+scikit-learn==1.2.2
+tensorflow==2.15.0
+tensorflowjs==4.17.0
+keras-tuner==1.4.7
