@@ -1,0 +1,1 @@
+This notebook was developed and tested with Python 3.10.12 on a Linux system
